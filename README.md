@@ -18,4 +18,4 @@ Criação de Repositório Remoto no GitHub: Foi criado um repositório remoto no
 
 Envio do Projeto para o Repositório Remoto: O código-fonte do projeto foi enviado para o repositório remoto no GitHub.
 
-Validação das Classes e Interface do Recurso Produto: Na entrega das atividades na plataforma, foi realizada a validação das classes e da interface do recurso Produto, garantindo que as camadas Model, Repository e Controlle
+Validação das Classes e Interface do Recurso Produto: Na entrega das atividades na plataforma, foi realizada a validação das classes e da interface do recurso Produto, garantindo que as camadas Model, Repository e Controller.
